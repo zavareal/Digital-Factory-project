@@ -25,13 +25,18 @@ Contains the input data:
 
 - **best_def.pt**: the object detection model  
 - **Eye_Gaze_def.csv**: the csv file of the eye gaze observation given by MPS  
-- **VRS_def.vrs**: the corresponding VRS file  
+- **VRS_def.vrs**: the corresponding VRS file *(not uploaded to GitHub due to file size limits)*  
 
 ### Main project files (root)
 
 - **functions.py**: a python file containing functions that the notebook will call. The functions are described inside the file and in the report  
 - **test_video.ipynb**: the notebook that will process the VRS  
 - **video_flag.mp4**: the video output of the notebook  
+
+### /report directory  
+Additional project documentation:
+
+- **Digital_Factory_Report.pdf**: full report describing the project, methodology, results, and implementation details  
 
 ---
 
